@@ -57,7 +57,7 @@ The chatbot utilizes pre-trained models and a TF-IDF vectorizer to match user in
 -  **Cosine Similarity**: It uses cosine similarity to match user inputs with the closest symptom text and provide appropriate responses.
 ## Snapshot
 [HealthCare Chatbot Using NLP]![![Screenshot 2024-11-22 224850](https://github.com/user-attachments/assets/6e5f2959-2cf0-450a-9536-4501186217d3)
-](https://github.com/user-attachments/assets/4f22c6bd-6042-47b9-923c-6fa72aff7f3f)
+]
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 You can copy and paste this content directly into your `README.md` file for your GitHub repository.
