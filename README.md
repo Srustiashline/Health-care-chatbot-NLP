@@ -29,22 +29,22 @@ The chatbot utilizes pre-trained models and a TF-IDF vectorizer to match user in
    cd healthcare-chatbot-nlp
    ```
 2.Install the required Python libraries:
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 3.Download the necessary NLTK datasets:
-```bash
-import nltk
-nltk.download('punkt')
-nltk.download('wordnet')
-```
+   ```bash
+   import nltk
+   nltk.download('punkt')
+   nltk.download('wordnet')
+   ```
 4.Ensure that you have the symptom.txt and pincodes.txt files in the project directory as they are used for identifying symptoms and location-based responses.
 
 ## Usage
 - Run the chatbot by executing the following command in the terminal:
-```bash
-python serve.py
-```
+   ```bash
+   python serve.py
+   ```
 - The bot will greet you and ask if you are experiencing any health issues. If you respond with "yes", it will proceed to ask for symptoms and provide responses based on the information it has.
 
 - You can ask about health-related concerns, and the bot will provide a relevant response based on predefined data. For example, if you mention symptoms like "fever", it will ask further questions about the type of fever and its symptoms.
