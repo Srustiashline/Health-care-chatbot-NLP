@@ -27,7 +27,7 @@ The chatbot utilizes pre-trained models and a TF-IDF vectorizer to match user in
    ```bash
    git clone https://github.com/<your-username>/healthcare-chatbot-nlp.git
    cd healthcare-chatbot-nlp
-```
+   ```
 2.Install the required Python libraries:
 ```bash
 pip install -r requirements.txt
