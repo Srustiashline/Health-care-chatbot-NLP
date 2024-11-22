@@ -1,0 +1,77 @@
+
+530011-->
+Name:DR. M.Satyarao,
+contactnumber:0891-2709239,
+location:"malkapuram,beside postoffice",
+timings: 6:30pm-9:30pm,
+Specialist : ENT.
+
+570002-->
+Name: Dr. Harindra M.N
+Contact Number: +91-74110-81056
+Location: Amrav ENT Care, V.V. Mohalla, Mysore
+Timings: 5:00 PM - 6:00 PM (Monday to Saturday)
+Specialist: ENT.
+
+570016-->
+Name: Dr. Suhas S.S
+Contact Number: +91-98862-17170
+Location: SVARA ENT Care, Vijay Nagar 2nd Stage, Mysore
+Timings: 5:00 PM - 8:00 PM (Monday to Saturday)
+Specialist: ENT, Head and Neck Surgeries.
+
+570004-->
+Name: Dr. Basavaraj S
+Contact Number: +91-94480-77548
+Location: Basavaraj ENT Surgery Clinic, Ramanuja Road, Mysore
+Timings: 10:00 AM - 1:00 PM, 5:00 PM - 8:30 PM (Monday to Saturday)
+Specialist: ENT, Ear Microsurgery, Nasal Disorders.
+
+570017-->
+Name: Dr. Pradeep Shankar
+Contact Number: +91-99720-11081
+Location: Nandan ENT and Head-Neck Speciality Clinic, Hebbal Layout, Mysore
+Timings: 9:00 AM - 1:00 PM, 4:00 PM - 7:00 PM (Monday to Saturday)
+Specialist: ENT, Hearing Aid Services.
+
+570009-->
+Name: Dr. Ravi Kumar
+Contact Number: +91-99012-34567
+Location: Ravi ENT Care, Saraswathipuram, Mysore
+Timings: 9:00 AM - 1:00 PM, 5:00 PM - 8:00 PM (Monday to Saturday)
+Specialist: ENT, Sinus and Allergy Treatment.
+
+570018-->
+Name: Dr. Shweta Nair
+Contact Number: +91-99988-77665
+Location: Nair ENT Clinic, Hootagalli, Mysore
+Timings: 9:00 AM - 11:00 AM, 6:00 PM - 8:00 PM (Monday to Saturday)
+Specialist: ENT, Pediatric ENT.
+
+570028-->
+Name: Dr. Krishnamurthy S.
+Contact Number: +91-98451-23456
+Location: Krishnamurthy ENT Centre, Alanahalli, Mysore
+Timings: 11:00 AM - 1:00 PM, 5:00 PM - 8:00 PM (Monday to Saturday)
+Specialist: ENT, Vertigo and Balance Disorders.
+
+570023-->
+Name: Dr. Vinay Kumar
+Contact Number: +91-87965-12345
+Location: Vinay ENT Hospital, Gokulam 3rd Stage, Mysore
+Timings: 9:30 AM - 12:30 PM, 5:30 PM - 7:30 PM (Monday to Saturday)
+Specialist: ENT, Voice Disorders.
+
+570008-->
+Name: Dr. Meera Subramaniam
+Contact Number: +91-97654-34211
+Location: Meera ENT and Allergy Centre, Vidyaranyapuram, Mysore
+Timings: 10:30 AM - 12:30 PM, 4:30 PM - 7:30 PM (Monday to Saturday)
+Specialist: ENT, Allergy and Asthma Care.
+
+570001-->
+Name: Dr. Suhas Pattar
+Contact Number: +91-94480-77548
+Location: Dr. Suhas ENT Clinic, Mysore
+Timings: 4:00 PM - 9:00 PM (Monday to Saturday)
+Specialist: ENT, Sleep Apnea Management.
