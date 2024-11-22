@@ -56,7 +56,11 @@ The chatbot utilizes pre-trained models and a TF-IDF vectorizer to match user in
 -  **Symptom Matching**: The chatbot matches the symptoms entered by the user with predefined symptoms to suggest potential health issues.
 -  **Cosine Similarity**: It uses cosine similarity to match user inputs with the closest symptom text and provide appropriate responses.
 ## Snapshot
-![Healthcare Chatbot Snapshot](Screenshot%202024-11-22%20224850.png)
+git add images/Snapshot.png
+git commit -m "![Uploading Screenshot 2024-11-22 224850.png…]()
+"
+git push
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
