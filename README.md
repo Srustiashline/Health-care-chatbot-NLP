@@ -1,14 +1,14 @@
 # HealthCare Chatbot Using NLP
 
-## Table Of Contents
- -Overview
- -Features
- -Technologies Used
- -Installation
- -Usage
- -How it works
- -Snapshot
- -License
+## Table of Contents
+- [Overview](#iOverview)
+- [Features](#Features)
+- [Technologies Used](#Technologies Used)
+- [Installation](# Installation)
+- [Usage](# Usage)
+- [How It Works](#How It Works)
+- [Snapshot](#Snapshot)
+- [License](#license)
 
 ## Overview
 
