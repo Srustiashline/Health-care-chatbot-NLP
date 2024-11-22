@@ -27,17 +27,17 @@ The chatbot utilizes pre-trained models and a TF-IDF vectorizer to match user in
    git clone https://github.com/<your-username>/healthcare-chatbot-nlp.git
    cd healthcare-chatbot-nlp
    ```
-2.Install the required Python libraries:
+2. Install the required Python libraries:
    ```bash
    pip install -r requirements.txt
    ```
-3.Download the necessary NLTK datasets:
+3. Download the necessary NLTK datasets:
    ```bash
    import nltk
    nltk.download('punkt')
    nltk.download('wordnet')
    ```
-4.Ensure that you have the symptom.txt and pincodes.txt files in the project directory as they are used for identifying symptoms and location-based responses.
+4. Ensure that you have the symptom.txt and pincodes.txt files in the project directory as they are used for identifying symptoms and location-based responses.
 
 ## Usage
 - Run the chatbot by executing the following command in the terminal:
