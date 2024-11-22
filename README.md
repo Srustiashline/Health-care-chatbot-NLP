@@ -3,10 +3,10 @@
 ## Table of Contents
 - [Overview](#iOverview)
 - [Features](#Features)
-- [Technologies Used](#Technologies Used)
-- [Installation](# Installation)
-- [Usage](# Usage)
-- [How It Works](#How It Works)
+- [Technologies Used](#TechnologiesUsed)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [How It Works](#HowItWorks)
 - [Snapshot](#Snapshot)
 - [License](#license)
 
