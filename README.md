@@ -1,14 +1,14 @@
 # HealthCare Chatbot Using NLP
 
 ## Table Of Contents
--Overview
--Features
--Technologies Used
--Installation
--Usage
--How it works
--Snapshot
--License
+ -Overview
+ -Features
+ -Technologies Used
+ -Installation
+ -Usage
+ -How it works
+ -Snapshot
+ -License
 
 ## Overview
 
