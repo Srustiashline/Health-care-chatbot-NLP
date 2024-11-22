@@ -1,5 +1,15 @@
 # HealthCare Chatbot Using NLP
 
+## Table Of Contents
+-Overview
+-Features
+-Technologies Used
+-Installation
+-Usage
+-How it works
+-Snapshot
+-License
+
 ## Overview
 
 This is an AI-powered healthcare chatbot designed to assist users by diagnosing potential health issues based on their symptoms. Using Natural Language Processing (NLP), the chatbot is capable of understanding and processing user input to provide relevant responses, including suggesting possible causes for symptoms like fever and providing general advice.
@@ -55,10 +65,9 @@ The chatbot utilizes pre-trained models and a TF-IDF vectorizer to match user in
 -  **Basic Query**: If the user responds positively to a health-related query, the bot asks for symptoms.
 -  **Symptom Matching**: The chatbot matches the symptoms entered by the user with predefined symptoms to suggest potential health issues.
 -  **Cosine Similarity**: It uses cosine similarity to match user inputs with the closest symptom text and provide appropriate responses.
+   
 ## Snapshot
 ![Screenshot 2024-11-22 224850](https://github.com/user-attachments/assets/f459f017-3384-4a56-817c-4c51d1b4a49c)
-
-
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
